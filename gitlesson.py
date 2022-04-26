@@ -35,7 +35,8 @@
 
 # git checkout <name_of_branch>  
 
-
+# 9. git pull - команда, которая используется для загрузки изменений из удаленного репозитория 
+# git pull <origin> 
 
 
 
